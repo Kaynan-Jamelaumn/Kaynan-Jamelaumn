@@ -7,7 +7,7 @@
 - 📞 **Phone:** +55 (48) 99901-6811  
 - 🔗 **GitHub:** [github.com/Kaynan-Jamelaumn](https://github.com/Kaynan-Jamelaumn)  
 - 🔗 **LinkedIn:** [linkedin.com/in/kaynan-jamelaumn](https://linkedin.com/in/kaynan-jamelaumn)  
-- 📜 **Diplomas and Certificates:** [Google Drive](https://drive.google.com/drive/folders/1M2UT_YczLn26pKOXk7l8g7rHBGp5nI-E?usp=sharing)  
+- 📜 **Degrees and Certificates:** [Google Drive](https://drive.google.com/drive/folders/1M2UT_YczLn26pKOXk7l8g7rHBGp5nI-E?usp=sharing)  
 
 ---
 
