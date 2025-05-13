@@ -61,39 +61,7 @@ Graduated in Internet Systems (2025) and Technical Informatics (2021) at IFSC, p
 ### General Knowledge:  
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED
 
-
-## 📂 Highlighted Projects
-
-- **[Multi-BD-NodeJS-API-BoilerPlate](link)** - A Node.js API with support for multiple databases (MySQL/MongoDB) and ID validation (CPF, SSN, Passport). Includes authentication via JWT or session.  
-  **Technologies:** Node.js, TypeScript, MySQL, MongoDB, Mongoose, Sequelize, Validator.  
-  [Repository](https://github.com/Kaynan-Jamelaumn/Multi-BD-NodeJS-API-BoilerPlate)  
-
-- **[Simple-React-App-From-User-API-Manager](link)** - React front-end for user management, integrated with an API for multiple ID validation.  
-  **Technologies:** JavaScript, React.  
-  [Repository](https://github.com/Kaynan-Jamelaumn/simple-react-app-from-user-api-manager)  
-
-- **[Chemical-Equation-Balancer](link)** - A Python script that balances chemical equations and calculates Oxidation Numbers (NOX), among other operations.  
-  **Technologies:** Python, Chemistry Solvers.  
-  [Repository](https://github.com/Kaynan-Jamelaumn/Chemical-Equation-Balancer)  
-
-- **[Genetic-Algorithms-Knapsack-Problem](link)** - Genetic algorithm to solve the knapsack problem with configurable island models and methods for crossover, migration, mutation, and selection.  
-  **Technologies:** Python, Genetic Algorithms.  
-  [Repository](https://github.com/Kaynan-Jamelaumn/genetic-algorithms-knapsack-problem)  
-
-- **[Selenium-Tests](link)** - Automated tests with Selenium WebDriver in Java, developed for QAS Simtro Enterprise.  
-  **Technologies:** Java, Selenium WebDriver, TestNG.  
-  [Private Repository]  
-
-- **[TCC-UnityProceduralGenerationScripts](link)** - Procedural terrain and structure generation scripts for Unity, developed as part of my final graduation project (TCC).  
-  **Technologies:** C#, Unity.  
-  [Repository](https://github.com/Kaynan-Jamelaumn/TCC-UnityProceduralGenerationScripts)  
-
-- **[SimpleMovementsUnityPackage](link)** - TCC expansion A library under development for procedural terrain generation, structures, and systems for AI for MOBs, inventory, and movement.  
-  **Technologies:** C#, Unity.  
-  [Repository](https://github.com/Kaynan-Jamelaumn/SimpleMovementsUnityPackage)  
-
 ---
-
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaynan-Jamelaumn&theme=radical)
